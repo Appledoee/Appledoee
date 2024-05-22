@@ -21,4 +21,4 @@ Coming from Non-IT background, I am now eager to transition to this field when l
 
 <li> 👀 I am currently working on (May 2024): Google Cybersecurity Certificate </li>
 <li> 🌱 I am currently learning on: </li>
-<li> 👟 Track my <a href="https://tryhackme.com/p/Appledoe"> progress</a> on TryHackMe: </li>
+<li> 👟 Track my <a href="https://tryhackme.com/p/Appledoe"> progress</a> on TryHackMe </li>
