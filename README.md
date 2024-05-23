@@ -15,7 +15,7 @@ Upcoming: Malware Analysis Project
 
 # About Me
 
-My interest in cybersecurity started when I first did my Master's thesis on human security, where I found a gap in the traditional context of human security discourse.  Then, my passion was further expanded when I first joined a CTF (Capture The Flag) workshop for beginners in November 2023 and  of OSINT and steganography amazed me. At the end of the event, there was also a mini-CTF challenge for the participants and  there was a mini-CTF challenge for the participants, and I vividly recall the excitement I felt when I managed to solve my first CTF challenge. Since then, I've been pushing myself to continue learning.
+My interest in cybersecurity started when I first did my Master's thesis on human security, where I found a gap in the traditional context of human security discourse.  Then, my passion was further expanded when I first joined a CTF (Capture The Flag) workshop for beginners in November 2023 and that's where I discovered my interest in OSINT and steganography. At the end of the event, there was also a mini-CTF challenge for the participants and  there was a mini-CTF challenge for the participants, and I vividly recall the excitement I felt when I managed to solve my first CTF challenge. Since then, I've been pushing myself to continue learning.
 
 Coming from Non-IT background, I am now eager to transition to this field when later I found that Cyber Threat Intelligence has both elements of my passion in cybersecurity and my background in Political Science.
 
