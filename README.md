@@ -19,6 +19,6 @@ My interest in cybersecurity started when I first did my Master's thesis on huma
 
 Coming from Non-IT background, I am now eager to transition to this field when later I found that Cyber Threat Intelligence has both elements of my passion in cybersecurity and my background in Political Science.
 
-<li> 👀 I am currently working on (May 2024): Google Cybersecurity Certificate, SheCodes.io Project </li>
+<li> 👀 I am currently working on (June 2024): Google Cybersecurity Certificate (5 out of 8 modules), SheCodes.io Project </li>
 <li> 🌱 I am currently learning: </li>
 <li> 👟 Track my <a href="https://tryhackme.com/p/Appledoe"> progress</a> on TryHackMe </li>
