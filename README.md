@@ -2,6 +2,9 @@
 
 <a href="https://www.linkedin.com/in/nur-i-11517929b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+#💻 Blog
+Coming soon
+
 # 💻Cybersecurity Projects:
 Upcoming: Malware Analysis Project
 
