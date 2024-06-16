@@ -18,9 +18,9 @@ Coming soon
 
 # 🧕 About Me
 
-My interest in cybersecurity started when I first did my Master's thesis on human security, where I found a gap in the traditional context of human security discourse.  Then, my passion was further expanded when I first joined a CTF (Capture The Flag) workshop for beginners in November 2023 and that's where I discovered my interest in OSINT and steganography. At the end of the event, there was also a mini-CTF challenge for the participants and I vividly recall the excitement I felt when I managed to solve my first CTF challenge. Since then, I've been pushing myself to continue learning.
+A political science graduate looking to transition to cybersecurity field 
 
-Coming from Non-IT background, I am now eager to transition to this field when I found that Cyber Threat Intelligence has both elements of my passion in cybersecurity and my background in Political Science.
+Interest: Cyber Threat Intelligence/ Threat Researcher
 
 <li> 👀 I am currently working on (June 2024): Google Cybersecurity Certificate (5 out of 8 modules), SheCodes.io Project </li>
 <li> 🌱 I am currently learning: </li>
