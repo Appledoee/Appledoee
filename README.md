@@ -6,7 +6,7 @@
 Coming soon
 
 # 💻 Cybersecurity Projects:
-Upcoming: Malware Analysis Project
+
 
 # 🏅 Certifications:
 
