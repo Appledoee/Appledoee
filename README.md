@@ -22,6 +22,6 @@ A political science graduate looking to transition to cybersecurity field
 
 Interest: Cyber Threat Intelligence/ Threat Researcher
 
-<li> 👀 I am currently working on (June 2024): Google Cybersecurity Certificate (5 out of 8 modules), SheCodes.io Project </li>
+<li> 👀 I am currently working on (July 2024): Google Cybersecurity Certificate (7 out of 8 modules), SheCodes.io Project </li>
 <li> 🌱 I am currently learning: </li>
 <li> 👟 Track my <a href="https://tryhackme.com/p/Appledoe"> progress</a> on TryHackMe </li>
