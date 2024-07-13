@@ -4,12 +4,14 @@
 
 # 💻 Blog
 
-Appledoee.github.io
+Click <a href="Appledoee.github.io">here</a> to read my blog
+
 A space for me to share my reports and research, especially in OSINT, threat intelligence, and issues surrounding technology and security.
 
 The aim of this is to:
 1) Polish my report writing skills
 2) Document my progress in learning
+   
    
 
 # 💻 Cybersecurity Projects:
