@@ -4,7 +4,7 @@
 
 # 💻 Blog
 
-Click <a href="Appledoee.github.io">here</a> to read my blog
+Click <a href="https://Appledoee.github.io">here</a> to read my blog
 
 A space for me to share my reports and research, especially in OSINT, threat intelligence, and issues surrounding technology and security.
 
