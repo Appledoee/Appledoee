@@ -3,7 +3,14 @@
 <a href="https://www.linkedin.com/in/nur-i-11517929b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 # 💻 Blog
-Coming soon
+
+Appledoee.github.io
+A space for me to share my reports and research, especially in OSINT, threat intelligence, and issues surrounding technology and security.
+
+The aim of this is to:
+1) Polish my report writing skills
+2) Document my progress in learning
+   
 
 # 💻 Cybersecurity Projects:
 
