@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/nur-i-11517929b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-# 💻 Blog
+#  Blog
 
 Click <a href="https://Appledoee.github.io">here</a> to read my blog
 
@@ -14,10 +14,10 @@ The aim of this is to:
    
    
 
-# 💻 Cybersecurity Projects:
+#  Cybersecurity Projects:
 
 
-# 🏅 Certifications:
+#  Certifications:
 
 <ul>
   <li><a href="https://www.credly.com/badges/515d7d81-d9f5-42a4-b008-c35817c76b80">ISC2 Certified in Cybersecurity (CC)</a></li>
@@ -25,7 +25,7 @@ The aim of this is to:
   <li>Upcoming: EC Council Pentesting Agent</li>
 </ul>
 
-# 🧕 About Me
+# About Me
 
 A political science graduate looking to transition to cybersecurity field 
 
