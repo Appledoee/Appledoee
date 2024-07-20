@@ -21,8 +21,8 @@ The aim of this is to:
 
 <ul>
   <li><a href="https://www.credly.com/badges/515d7d81-d9f5-42a4-b008-c35817c76b80">ISC2 Certified in Cybersecurity (CC)</a></li>
-  <li>Upcoming: Google Cybersecurity Certificate</li>
-  <li>Upcoming: EC Council Pentesting Agent</li>
+   <li><a href="https://www.credly.com/badges/1679f6b8-ede8-4ba6-908f-8b96f7d29c39/accept_via_sign_in">ISC2 Certified in Cybersecurity (CC)</a></li>
+  <li>In Progress: EC Council Pentesting Agent</li>
 </ul>
 
 # About Me
