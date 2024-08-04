@@ -15,7 +15,17 @@ The aim of this is to:
    
 
 #  Cybersecurity Projects:
-<a href="https://github.com/Appledoee/Google-Cybersecurity-Portfolio">Google Cybersecurity Certificate Portfolio</a>
+
+<ul>
+<li>Google Cybersecurity Certificate</li>
+  <a href="https://github.com/Appledoee/Google-Cybersecurity-Portfolio/blob/main/Automate%20Cybersecurity%20Tasks%20With%20Python/GC_Algorithm%20for%20file%20updates%20in%20Python.pdf">Automate Cybersecurity Tasks with Python</a>
+
+
+   
+ <li>Networking</li>
+   <a href="https://github.com/Appledoee/Connectingdevicestonetworkingdevices/blob/main/Cisco%20Packet%20Tracer%20Project-%20Connecting%20end%20devices%20to%20networking%20devices.pdf">Cisco Networking Project: Connecting End Devices to Networking Devices</a>
+
+</ul>
 
 #  Certifications:
 
