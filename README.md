@@ -22,7 +22,8 @@ The aim of this is to:
 
 <li>Python</li>
   <a href="https://github.com/Appledoee/SSH-login-brute-forcing/tree/main">SSH Login Brute Forcing</a>
-   <a href="https://github.com/Appledoee/SHA256-Password-Cracking">SHA256 Password Cracking</a>
+  
+  <a href="https://github.com/Appledoee/SHA256-Password-Cracking">SHA256 Password Cracking</a>
 
    
  <li>Networking</li>
