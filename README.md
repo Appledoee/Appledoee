@@ -17,6 +17,9 @@ The aim of this is to:
 #  Cybersecurity Projects:
 
 <ul>
+
+<li> Fraud Detection Project </li>
+ <a href="https://github.com/Appledoee/Google-Cybersecurity-Portfolio/blob/main/Automate%20Cybersecurity%20Tasks%20With%20Python/GC_Algorithm%20for%20file%20updates%20in%20Python.pdf](https://github.com/Appledoee/Fraud-Detection-Project-1-Email-Phishing-Analysis/blob/main/Fraud%20Detection%20Project%201-%20Email%20Phishing%20Analysis.pdf)">Project 1: Email Phishing Analysis</a>
 <li>Google Cybersecurity Certificate</li>
   <a href="https://github.com/Appledoee/Google-Cybersecurity-Portfolio/blob/main/Automate%20Cybersecurity%20Tasks%20With%20Python/GC_Algorithm%20for%20file%20updates%20in%20Python.pdf">Automate Cybersecurity Tasks with Python</a>
 
@@ -36,7 +39,7 @@ The aim of this is to:
 <ul>
   <li><a href="https://www.credly.com/badges/515d7d81-d9f5-42a4-b008-c35817c76b80">ISC2 Certified in Cybersecurity (CC)</a></li>
    <li><a href="https://www.credly.com/badges/1679f6b8-ede8-4ba6-908f-8b96f7d29c39/accept_via_sign_in">Google Cybersecurity Certificate</a></li>
-  <li>In Progress: EC Council Pentesting Agent</li>
+  <li>In Progress: Security Blue Team Level 1 (BTL1) </li>
 </ul>
 
 # About Me
